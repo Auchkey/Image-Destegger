@@ -2,7 +2,7 @@
 
 **WORK IN PROGRESS**
 
-Finds and extracts images hidden within an image via LSB steganography.
+**Goal**: Finds and extracts images hidden within an image via LSB steganography.
 
 Currently contains a small, python test script for normalising larger bit ranges into smaller ones. The idea being to eventually convert every pixel in an image to reveal another image hidden using a lower significant-bit colour encoding scheme.
 
